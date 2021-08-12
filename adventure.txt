@@ -1,4 +1,6 @@
-This line has been changed to create conflict
+This is the second conflict from local-main branch
 Joan of Arc
 Abraham Lincoln
 Socrates
+
+This is a newest change in the local-main branch
