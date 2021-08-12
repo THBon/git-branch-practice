@@ -1,3 +1,4 @@
-Socrates
+This line has been changed to create conflict
 Joan of Arc
 Abraham Lincoln
+Socrates
